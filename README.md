@@ -1,4 +1,5 @@
-# LinCFNA
+# LinCFNA: Linguistic Characteristics of Fake & Non-Fake articles
+
 
 ## Description
 
