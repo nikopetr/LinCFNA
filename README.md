@@ -23,6 +23,8 @@ Due to the large size of the data, the files can be downloaded from the followin
 
 **LinCFNA_Text.csv**: Contains the text and meta-data for the 320,960 time-stamped article observations, which are labelled as either fake or real
 
+**clean_non_missing_features_politics_labels_75_lasso_34_features.csv**: Containts the political articles' features that were selected with Lasso Logistic Regression
+
 ## Data Collection and Feature Extraction
 
 Regarding the Data Collection process, a list of collected articles was
