@@ -48,6 +48,18 @@ Please cite our paper if you find the work useful:
 
 https://www.nature.com/articles/s41598-023-32952-3#citeas
 
+<pre>
+@article{petrou2023multiple,
+  title={A Multiple change-point detection framework on linguistic characteristics of real versus fake news articles},
+  author={Petrou, Nikolas and Christodoulou, Chrysovalantis and Anastasiou, Andreas and Pallis, George and Dikaiakos, Marios D},
+  journal={Scientific Reports},
+  volume={13},
+  number={1},
+  pages={6086},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+</pre>
 
 ## References
 
