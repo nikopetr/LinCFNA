@@ -43,6 +43,12 @@ ranging from VERY LOW to VERY HIGH. MBFC has been widely used in the
 literature([Chen and Freire 2020](#references)). Thus, utilizing the knowledge of these
 lists, the possibility of false positives was limited.
 
+## Citation
+Please cite our paper if you find the work useful: 
+
+https://www.nature.com/articles/s41598-023-32952-3#citeas
+
+
 ## References
 
 Chen, Zhouhan, and Juliana Freire. 2020. “Proactive Discovery of Fake
