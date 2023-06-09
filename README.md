@@ -17,7 +17,7 @@ The extraction of these features is based on a previous recent study
 Stylistic, Complexity and Psychological aspects of the articles were
 utilized.
 
-Due to the large size of the data, the files can be downloaded from the following [google-drive repository](https://drive.google.com/file/d/1e3HkYE4wVWn-YwyHQyajJActTsBHK4x7/view?usp=sharing). 
+Due to the large size of the data, the files can be downloaded from the following [google-drive repository](https://drive.google.com/drive/folders/1owT820rFaT66WsVEJaAuAdBMVq3nm6Co?usp=sharing). 
 
 **LinCFNA_Features.csv**: Contains the 534 different linguistic features for the 320,960 time-stamped article observations, which are labelled as either fake or real
 
